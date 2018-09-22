@@ -3,7 +3,7 @@ html {
 }
 
 html.home-bg {
-	background: url(https://github.com/jss-mccly/practice/blob/master/images/home-bg.jpeg) no-repeat center center fixed;
+	background: url(https://raw.githubusercontent.com/jss-mccly/practice/master/images/home-bg.jpeg) no-repeat center center fixed;
 }
 
 html.contact-bg, .about-bg {
