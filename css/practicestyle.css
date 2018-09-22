@@ -2,16 +2,16 @@ html {
 	background-size: cover;
 }
 
+body {
+	background-color: #F5F5F5;
+}
+
 html.home-bg {
-	background-image: url(https://raw.githubusercontent.com/jss-mccly/practice/master/images/home-bg.jpeg) no-repeat center center fixed;
+	background: url(https://raw.githubusercontent.com/jss-mccly/practice/master/images/home-bg.jpeg) no-repeat center center fixed;
 }
 
 html.contact-bg {
-	background-image: url(https://raw.githubusercontent.com/jss-mccly/practice/master/images/abstract-bg.jpeg) no-repeat center center fixed;
-}
-
-body {
-	background-color: #F5F5F5;
+	background: url(https://raw.githubusercontent.com/jss-mccly/practice/master/images/abstract-bg.jpeg) no-repeat center center fixed;
 }
 
 ul {
