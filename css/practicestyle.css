@@ -2,15 +2,15 @@ html {
 	background-size: cover;
 }
 
+.home-bg {
+	background: url(images/home-bg.jpeg) no-repeat center center fixed;
+}
+
 body {
 	background-color: #F5F5F5;
 }
 
-html.home-bg {
-	background: url(images/home-bg.jpeg) no-repeat center center fixed;
-}
-
-html.contact-bg, .about-bg {
+.contact-bg, .about-bg {
 	background: url(images/abstract-bg.jpeg) no-repeat center center fixed;
 }
 
