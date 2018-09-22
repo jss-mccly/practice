@@ -6,11 +6,11 @@ body {
 	background-color: #F5F5F5;
 }
 
-.homebg {
+html.homebg {
 	background: url(https://raw.githubusercontent.com/jss-mccly/practice/master/images/homebg.jpeg) no-repeat center center fixed;
 }
 
-.pagebg {
+html.pagebg {
 	background: url(https://raw.githubusercontent.com/jss-mccly/practice/master/images/abstractbg.jpeg) no-repeat center center fixed;
 }
 
