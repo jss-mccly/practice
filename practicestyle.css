@@ -1,0 +1,118 @@
+html {
+    background-size: cover;
+}
+
+body {
+    background-color: #F5F5F5;
+}
+
+.home-bg {
+    background: url(images/home-bg.jpg) no-repeat center center fixed;
+}
+
+.contact-bg, .about-bg {
+    background: url(images/abstract-bg.jpg) no-repeat center center fixed;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #0000FF;
+    border-style: none;
+}
+
+li {
+	text-decoration: none;
+    float: right;
+}
+
+h1 {
+	font-family: 'Courier New', Courier, monotype;
+	color: #fff;
+    font-size: 990%;
+    text-align: left;
+    margin: 12px;
+    -webkit-text-stroke: #111 18px;
+}
+
+h2 {
+	font-family: Arial, Helvetica, sans-serif;
+	color: #111;
+    font-size: 600%;
+    text-align: center;
+    margin-bottom: 36px;
+}
+
+h3 {
+	font-family: 'Courier New', Courier, monotype;
+	color: #111;
+    font-size: 300%;
+    margin: 18px;
+}
+
+p {
+	font-family: 'Courier New', Courier, monotype;
+	color: #111;
+    font-size: 200%;
+}
+
+p.shift-r {
+    margin-left: 36px;
+    margin-bottom: 6px;
+}
+
+.contact-p {
+    text-align: center;
+}
+
+a {
+    text-decoration: none;
+}
+
+.jess {
+    font-family: 'Courier New', Courier, monotype;
+	color: #fff;
+    text-align: left;
+    margin: 9px;
+    -webkit-text-stroke: #111 18px; 
+}
+
+.jess:hover {
+    -webkit-text-stroke: #0000FF 18px;
+}
+
+li a {
+    display: block;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #111;
+    font-weight: bolder;
+    font-size: 200%
+}
+
+li a:hover {
+    background-color: #111;
+    color: #0000FF;
+}
+
+li.home {
+    background-color: #F5F5F5;
+    float: left;
+}
+
+footer {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #111;
+    color: #0000FF;
+    text-align: center;
+    font-size: 140%; 
+}
+
+img {
+    margin-left: 36px;
+}
+
