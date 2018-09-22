@@ -1,5 +1,5 @@
 html {
-	background-size: cover;
+	background-size: cover min:400px;
 }
 
 html.home-bg {
@@ -7,7 +7,7 @@ html.home-bg {
 }
 
 html.contact-bg, .about-bg {
-	background-image: url(images/abstract-bg.jpeg) no-repeat center center fixed;
+	background-image: url(https://raw.githubusercontent.com/jss-mccly/practice/master/images/abstract-bg.jpeg) no-repeat center center fixed;
 }
 
 body {
