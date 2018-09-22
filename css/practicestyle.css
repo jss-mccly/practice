@@ -6,12 +6,12 @@ body {
 	background-color: #F5F5F5;
 }
 
-html.home-bg {
-	background: url(https://raw.githubusercontent.com/jss-mccly/practice/master/images/home-bg.jpeg) no-repeat center center fixed;
+.homebg {
+	background: url(https://raw.githubusercontent.com/jss-mccly/practice/master/images/homebg.jpeg) no-repeat center center fixed;
 }
 
-html.contact-bg {
-	background: url(https://raw.githubusercontent.com/jss-mccly/practice/master/images/abstract-bg.jpeg) no-repeat center center fixed;
+.contactbg {
+	background: url(https://raw.githubusercontent.com/jss-mccly/practice/master/images/abstractbg.jpeg) no-repeat center center fixed;
 }
 
 ul {
