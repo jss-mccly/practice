@@ -6,7 +6,11 @@ html.home-bg {
 	background-image: url(https://raw.githubusercontent.com/jss-mccly/practice/master/images/home-bg.jpeg) no-repeat center center fixed;
 }
 
-html.contact-bg, html.about-bg {
+html.contact-bg {
+	background-image: url(https://raw.githubusercontent.com/jss-mccly/practice/master/images/abstract-bg.jpeg) no-repeat center center fixed;
+}
+
+html.about-bg {
 	background-image: url(https://raw.githubusercontent.com/jss-mccly/practice/master/images/abstract-bg.jpeg) no-repeat center center fixed;
 }
 
@@ -104,3 +108,5 @@ img {
 	margin-left: 36px;
 	padding: 0
 }
+
+
