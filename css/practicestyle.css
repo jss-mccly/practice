@@ -1,12 +1,12 @@
 html {
-	background-size: cover min:400px;
+	background-size: cover;
 }
 
 html.home-bg {
 	background-image: url(https://raw.githubusercontent.com/jss-mccly/practice/master/images/home-bg.jpeg) no-repeat center center fixed;
 }
 
-html.contact-bg, .about-bg {
+html.contact-bg, html.about-bg {
 	background-image: url(https://raw.githubusercontent.com/jss-mccly/practice/master/images/abstract-bg.jpeg) no-repeat center center fixed;
 }
 
