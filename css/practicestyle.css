@@ -6,11 +6,11 @@ body {
 	background-color: #F5F5F5;
 }
 
-.home-bg {
+html.home-bg {
 	background: url(images/home-bg.jpeg) no-repeat center center fixed;
 }
 
-.contact-bg, .about-bg {
+html.contact-bg, .about-bg {
 	background: url(images/abstract-bg.jpeg) no-repeat center center fixed;
 }
 
