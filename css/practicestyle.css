@@ -30,7 +30,7 @@ li {
 
 h1 {
 	font-family: 'Courier New', Courier, monotype;
-	color: #fff;
+	color: #111;
     font-size: 990%;
     text-align: left;
     margin: 12px;
@@ -75,7 +75,6 @@ a {
 	color: #fff;
     text-align: left;
     margin: 9px;
-    -webkit-text-stroke: #111 18px; 
 }
 
 li a {
@@ -86,7 +85,7 @@ li a {
     font-family: Arial, Helvetica, sans-serif;
     color: #111;
     font-weight: bolder;
-    font-size: 200%
+    font-size: 200%;
 }
 
 li a:hover {
