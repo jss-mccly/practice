@@ -3,15 +3,11 @@ html {
 }
 
 html.home-bg {
-	background-image: url(https://raw.githubusercontent.com/jss-mccly/practice/master/images/home-bg.jpeg) no-repeat center center fixed;
+	background-image: url(https://raw.githubusercontent.com/jss-mccly/practice/master/images/home-bg.jpeg) no-repeat, center, center fixed;
 }
 
 html.contact-bg {
-	background-image: url(https://raw.githubusercontent.com/jss-mccly/practice/master/images/abstract-bg.jpeg) no-repeat center center fixed;
-}
-
-html.about-bg {
-	background-image: url(https://raw.githubusercontent.com/jss-mccly/practice/master/images/abstract-bg.jpeg) no-repeat center center fixed;
+	background-image: url(https://raw.githubusercontent.com/jss-mccly/practice/master/images/abstract-bg.jpeg) no-repeat, center, center fixed;
 }
 
 body {
