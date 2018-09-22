@@ -34,7 +34,6 @@ h1 {
     font-size: 990%;
     text-align: left;
     margin: 12px;
-    -webkit-text-stroke: #111 18px;
 }
 
 h2 {
@@ -77,10 +76,6 @@ a {
     text-align: left;
     margin: 9px;
     -webkit-text-stroke: #111 18px; 
-}
-
-.jess:hover {
-    -webkit-text-stroke: #0000FF 18px;
 }
 
 li a {
