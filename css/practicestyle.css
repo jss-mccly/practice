@@ -2,16 +2,16 @@ html {
 	background-size: cover;
 }
 
-.home-bg {
+html.home-bg {
 	background: url(images/home-bg.jpeg) no-repeat center center fixed;
+}
+
+html.contact-bg, .about-bg {
+	background: url(images/abstract-bg.jpeg) no-repeat center center fixed;
 }
 
 body {
 	background-color: #F5F5F5;
-}
-
-.contact-bg, .about-bg {
-	background: url(images/abstract-bg.jpeg) no-repeat center center fixed;
 }
 
 ul {
@@ -101,5 +101,6 @@ footer {
 
 img {
 	margin-left: 36px;
+	margin-bottom: 6px;
+	margin-top: 18px;
 }
-
